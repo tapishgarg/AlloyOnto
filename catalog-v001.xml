@@ -2,7 +2,7 @@
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <uri id="Imports Wizard Entry" name="http://semantic.iitm.ac.in/AlloyOnto/Elements" uri="http://semantic.iitm.ac.in/AlloyOnto/Elements/elements-inferences.owl"/>
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1618489410601" name="duplicate:http://semantic.iitm.ac.in/AlloyOnto" uri="AlloyOnto1.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1618489410601" name="duplicate:http://semantic.iitm.ac.in/AlloyOnto" uri="AlloyOnto2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1618490981367" name="duplicate:http://semantic.iitm.ac.in/AlloyOnto" uri="AlloyOnto1.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1618490981367" name="duplicate:http://semantic.iitm.ac.in/AlloyOnto" uri="AlloyOnto2.owl"/>
     </group>
 </catalog>

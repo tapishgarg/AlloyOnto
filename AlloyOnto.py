@@ -112,4 +112,4 @@ with onto:
     #         individual.hasProductPhase.append(onto.Phase(data_2["Phase 3"][i]))
 
 
-onto.save(file="./AlloyOnto3.owl")
+onto.save(file="./AlloyOnto2.owl", format = "rdfxml")
