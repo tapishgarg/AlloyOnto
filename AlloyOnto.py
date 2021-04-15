@@ -11,7 +11,7 @@ print(onto.get_namespace(onto.base_iri))
 print(list(onto.classes()))
 print(onto.imported_ontologies)
 
-## Import excel sheet 
+## Import excel sheets
 data = pd.read_excel("/Users/tapishgarg/Documents/BTP-Ontologies/Extending_AlloyOnto/Phases_Properties_2.xlsx")
 data_2 = pd.read_excel("/Users/tapishgarg/Documents/BTP-Ontologies/Extending_AlloyOnto/Phases_reaction.xlsx")
 
